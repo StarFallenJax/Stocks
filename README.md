@@ -1,7 +1,7 @@
 # The Godis Fan Club Stock Market
-###Requirements:
+### Requirements:
 * Python 2.9.2+
-* An editor, preferably Visual Studio Code or Pycharm (*but  it does not really matter*)
+* An editor, preferably [Visual Studio Code](https://code.visualstudio.com/) or [Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows) (*but  it does not really matter*)
 
 #### Install dependencies
 `pip install -r requirements.txt`
@@ -23,9 +23,12 @@ And the following permissions:
 
 The bot also has all the Privileged Gateway Intents, however most are not used.
 
-The following fields from the bot will need to be replaced:
-TGFCSM.py / line 31 (with your own bot token)
-embeds.py / line 7 (with your own emoji)
+
+**The following fields from the bot will need to be replaced:**
+
+**TGFCSM.py** / line 31 *(with your own bot token)*
+
+**embeds.py** / line 7 *(with your own emoji)*
 
 ### Formatting
 The Godis Fan Club (very serious organization lol) uses [Black](https://github.com/psf/black "Black") to format the code.
